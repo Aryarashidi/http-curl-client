@@ -1,11 +1,11 @@
 {
-    "name": "Aryarashidi/http-curl-client",
+    "name": "aryarashidi/http-curl-client",
     "description": "Simple package that handle http request from php client",
     "keywords": [
         "http request",
         "curl"
     ],
-    "homepage": "https://github.com/Aryarashidi/http-curl-client",
+    "homepage": "https://github.com/aryarashidi/http-curl-client",
     "license": "MIT",
     "type": "library",
     "require": {
