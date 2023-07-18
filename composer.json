@@ -1,0 +1,19 @@
+{
+    "name": "Aryarashidi/http-curl-client",
+    "description": "Simple package that handle http request from php client",
+    "keywords": [
+        "http request",
+        "curl"
+    ],
+    "homepage": "https://github.com/Aryarashidi/http-curl-client",
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "php" : "^7.1.3|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Aryarashidi\\httpCurlClient\\": "src"
+        }
+    }
+}
